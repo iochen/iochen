@@ -1,12 +1,12 @@
 ### 📫 Contact me
 See https://iochen.com/gpg/
 
-### 🔭 Projects ready-to-start
+### 🔭 Working-on projects
 | Name             |                    Description                   | Progress|
 | ---------------- | ------------------------------------------------ | ------- |
 | Vanadium         | A simple, tidy and fast hugo theme.              | 50%     |
 | v2gen - rebuild  | A CLI client for V2Ray subscription.             | 50%     |
-| Helium           | A data transfer pipe based on HTTP protocols.    | 10%     |
+| ~~Helium~~       | ~~A data transfer pipe based on HTTP protocols.~~| ~~10%~~ <br>(STOPPED)|
 | PasteDiff        | A website which shows differences in code.       | 0%      |
 | Uranium          | A twitter-like self-host website.                | 15%     |
 
