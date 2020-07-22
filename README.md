@@ -1,5 +1,6 @@
 ### 📫 Contact me
-See https://iochen.com/gpg/
+- Email: see https://iochen.com/gpg/  
+- Telegram: @iochen
 
 ### 🔭 Working-on projects
 | Name             |                    Description                   | Progress|
