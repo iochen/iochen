@@ -3,13 +3,13 @@
 - Telegram: @iochen
 
 ### 🔭 Working-on projects
-| Name             |                    Description                   | Progress|
-| ---------------- | ------------------------------------------------ | ------- |
-| Vanadium         | A simple, tidy and fast hugo theme.              | 70%     |
-| v2gen - rebuild  | A CLI client for V2Ray subscription.             | 89%     |
-| ~~Helium~~       | ~~A data transfer pipe based on HTTP protocols.~~| ~~10%~~ <br>(STOPPED)|
-| PasteDiff        | A website which shows differences in code.       | 0%      |
-| Uranium          | A twitter-like self-host website.                | 15%     |
+|       Name       |                    Description                   | Progress |  Status  |
+| ---------------- | ------------------------------------------------ | -------- | -------- |
+| Ushio            | A forum-like website project                     | 25%      | Working  |
+| Vanadium         | A simple, tidy and fast hugo theme.              | 70%      | Paused   |
+| v2gen - rebuild  | A CLI client for V2Ray subscription.             | 100%     | Finished |
+| PasteDiff        | A website which shows differences in code.       | 0%       | Paused   |
+| Uranium          | A twitter-like self-host website.                | 15%      | Paused   |
 
 <!--
 **iochen/iochen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
