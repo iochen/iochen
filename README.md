@@ -5,7 +5,7 @@
 ### 🔭 Working-on projects
 |       Name       |                    Description                   | Progress |  Status  |
 | ---------------- | ------------------------------------------------ | -------- | -------- |
-| Ushio            | A forum-like website project                     | 25%      | Working  |
+| Ushio            | A forum website project                          | 20%      | Working  |
 | Vanadium         | A simple, tidy and fast hugo theme.              | 70%      | Paused   |
 | v2gen - rebuild  | A CLI client for V2Ray subscription.             | 100%     | Finished |
 | PasteDiff        | A website which shows differences in code.       | 0%       | Paused   |
