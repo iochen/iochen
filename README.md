@@ -1,6 +1,7 @@
 ### 📫 Contact me
 - Email: see https://iochen.com/about/#e-mail
-- Telegram: @iochen
+- Telegram: [@iochen](https://t.me/iochen)
+- Twitter: [@realRichardChen](https://twitter.com/realRichardChen)
 
 ### 🔭 Working-on projects
 |       Name       |                    Description                   | Progress |  Status  |
